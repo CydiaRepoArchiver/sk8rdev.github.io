@@ -1,9 +1,0 @@
-Package: com.sk8r.testtheme
-Name: TestTheme
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Test Theme!
-Maintainer: sk8r
-Author: sk8r
-Section: Themes (Springboard)

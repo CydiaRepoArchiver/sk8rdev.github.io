@@ -1,0 +1,16 @@
+Package: com.sk8r.nctextcolor
+Version: 1.0.1-22+debug
+Architecture: iphoneos-arm
+Maintainer: sk8r
+Installed-Size: 432
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.sk8r.nctextcolor_1.0.1-22+debug_iphoneos-arm.deb
+Size: 128732
+MD5sum: 1deeaa6ccaaf390e62798f9ce8eed8f5
+SHA1: 49deca209fff3221e56fb74d927e647a1acc1d6d
+SHA256: 8f008cd9286783bac6573c48a495cb63b7512e92e3bdfdd888e02dfed7b435a4
+Section: Tweaks
+Description: Customize your Notification Center!
+Author: sk8r
+Name: NCTextColor
+
