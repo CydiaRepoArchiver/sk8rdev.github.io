@@ -1,15 +1,15 @@
 Package: com.sk8r.lightify
-Version: 1.0.1
+Version: 1.0.1-75
 Architecture: iphoneos-arm
 Maintainer: kTweaks & sk8r
 Installed-Size: 648
 Depends: mobilesubstrate
 Conflicts: com.repo.xarold.com.fetchify
 Filename: ./debs/com.sk8r.lightify_1.0.1_iphoneos-arm.deb
-Size: 329860
-MD5sum: 20ee974a666b009ca7b24b0b281cdd75
-SHA1: 4bd9d1696774b244150db8b8ca89e086e118b7c3
-SHA256: fadb00557ece7ae900d11efb12f239ab9958136397b9db10376cdbf3dc70aa49
+Size: 329792
+MD5sum: d3831dfa5de69c72d1b6665e4ea17455
+SHA1: 00dd54fc48434df84ef83e1f1d7c42893b3847ad
+SHA256: 68599be229b750336eca59741dd4839a8cf6d641f3cfaf6e2751e914f4b45543
 Section: Tweaks
 Description: Change the usual dark appearance of Spotify to a lighter theme! Tested with Spotify 6.5.0 on iPhone.
 Author: kTweaks & sk8r
@@ -48,16 +48,16 @@ Author: sk8r
 Name: SpotifyLyrics
 
 Package: com.sk8r.tweakify
-Version: 0.1
+Version: 0.1-94
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 804
 Depends: mobilesubstrate
 Filename: ./debs/com.sk8r.tweakify_0.1_iphoneos-arm.deb
-Size: 247672
-MD5sum: cb1d5437481284ae2270c829dc1d7bed
-SHA1: e2c6e6caa29b0cb79f14ff41ef7f55141089f72a
-SHA256: 2521c3af577b90a410f59e453b2b8a4520cfe2594aafb158fa8856d802fb3ccd
+Size: 247592
+MD5sum: 8b25f5066c79e510e2e734d98fef8c48
+SHA1: 1b02fc0933f2a68dcdc24fa5a05ce6a0d1f44b81
+SHA256: 4d9d19d3702cdd44df760501cc1d1fcab26fff2ab64fa93e313f6fdbb80706ed
 Section: Tweaks
 Description: Tweak for Spotify. With this tweak installed, a song is added to the top of your playlist rather than to the end of it. Very convenient when you often have to drag songs all the way to the top. Unlike with the built-in ‘Recently Added’ feature, you are still able to change the order of the songs. Please notice that this tweak only affects newly added songs.
 Author: sk8r
