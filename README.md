@@ -1,2 +1,2 @@
-# sk8r-development.github.io
-Cydia repo of sk8r
+# sk8rdev.github.io
+Official Cydia repository of sk8r
