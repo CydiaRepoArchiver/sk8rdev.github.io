@@ -1,5 +1,5 @@
 Package: com.sk8r.lightify
-Version: 1.0.1-75
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: kTweaks & sk8r
 Installed-Size: 648
@@ -48,7 +48,7 @@ Author: sk8r
 Name: SpotifyLyrics
 
 Package: com.sk8r.tweakify
-Version: 0.1-94
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 804
@@ -62,4 +62,3 @@ Section: Tweaks
 Description: Tweak for Spotify. With this tweak installed, a song is added to the top of your playlist rather than to the end of it. Very convenient when you often have to drag songs all the way to the top. Unlike with the built-in ‘Recently Added’ feature, you are still able to change the order of the songs. Please notice that this tweak only affects newly added songs.
 Author: sk8r
 Name: Tweakify
-
