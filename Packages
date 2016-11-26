@@ -1,5 +1,5 @@
 Package: com.sk8r.lightify
-Version: 1.0.1
+Version: 1.0.1-74+debug
 Architecture: iphoneos-arm
 Maintainer: kTweaks & sk8r
 Installed-Size: 716
@@ -12,27 +12,27 @@ SHA1: 66bcd2cd5450a53a51a056aa543f69eded0e7371
 SHA256: 60f6410c269529ac9217eac8c4af13d4de6cb427e268623583affcc740995e5c
 Section: Tweaks
 Description: Change the usual dark appearance of Spotify to a lighter theme! Tested with Spotify 6.5.0 on iPhone.
-Author: kTweaks & sk8r <sk8r.development@gmail.com>
+Author: kTweaks & sk8r
 Name: Lightify
 
 Package: com.sk8r.nctextcolor
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: sk8r
-Installed-Size: 432
+Installed-Size: 424
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.sk8r.nctextcolor.deb
-Size: 128732
-MD5sum: 1deeaa6ccaaf390e62798f9ce8eed8f5
-SHA1: 49deca209fff3221e56fb74d927e647a1acc1d6d
-SHA256: 8f008cd9286783bac6573c48a495cb63b7512e92e3bdfdd888e02dfed7b435a4
+Filename: ./debs/com.sk8r.nctextcolor_1.0.1_iphoneos-arm.deb
+Size: 124418
+MD5sum: 0625389c367ba1573b92d9b2a314c7d7
+SHA1: b4f2b9613bd8ac42e4174d6de07a3490e373c382
+SHA256: e549a273e0cb322d6568dc3013b7e1c9a20bd8c5853ebf033544b97f7520b4cb
 Section: Tweaks
 Description: Customize your Notification Center!
-Author: sk8r <sk8r.development@gmail.com>
+Author: sk8r
 Name: NCTextColor
 
 Package: com.sk8r.spotifylyrics
-Version: 0.0.1
+Version: 0.0.1-176+debug
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 300
@@ -44,11 +44,11 @@ SHA1: 870ed8a69ef1c66a11afcd791c5214b5e849122f
 SHA256: fb127f5e691b05f1bad0a0963a21121616ba02faad2b5fbbf7c75e7c4c6cccd0
 Section: Tweaks
 Description: Show lyrics of currently played song! Note: Arbitrary loads need to be allowed in Info.plist of the Spotify app. Only change if you know what you do.
-Author: sk8r <sk8r.development@gmail.com>
+Author: sk8r
 Name: SpotifyLyrics
 
 Package: com.sk8r.tweakify
-Version: 0.1
+Version: 0.1-93+debug
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 860
@@ -60,5 +60,6 @@ SHA1: a645934a0d05d4ca3d2b3e22adbdbc7e11ceb196
 SHA256: 0d5a23a0e69a14dc080f149369a3bc3d6e2084a3abf326f4c9586cc1e6c3403b
 Section: Tweaks
 Description: Tweak for Spotify. With this tweak installed, a song is added to the top of your playlist rather than to the end of it. Very convenient when you often have to drag songs all the way to the top. Unlike with the built-in ‘Recently Added’ feature, you are still able to change the order of the songs. Please notice that this tweak only affects newly added songs.
-Author: sk8r <sk8r.development@gmail.com>
+Author: sk8r
 Name: Tweakify
+
