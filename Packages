@@ -38,10 +38,10 @@ Maintainer: sk8r
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.sk8r.spotifylyrics_0.0.1_iphoneos-arm.deb
-Size: 20098
-MD5sum: 2738b325fe1cf9b9b0c57ffd7407461c
-SHA1: f3b15f1034731ad8c14c3c88577cbbf657ed6a61
-SHA256: 733fb239fbf48069a4a7e036026cb8a6a1028e85d44421cc4393f79c7b8af79d
+Size: 20126
+MD5sum: 44e2f8504cd78e4e0fd768f8dc49e4ec
+SHA1: 7c8b797162954c7fa08334a4b30bb1f511fa3b45
+SHA256: d2de530c76e1aab6b9afca187fbde64d7a5cc8f14a5315bb985db1ede1edd5f4
 Section: Tweaks
 Description: Show lyrics of currently played song! Note: Arbitrary loads need to be allowed in Info.plist of the Spotify app. Only change if you know what you do.
 Author: sk8r
