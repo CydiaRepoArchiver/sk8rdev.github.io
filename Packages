@@ -1,5 +1,5 @@
 Package: com.sk8r.lightify
-Version: 1.0.1
+Version: 1.0.1-75
 Architecture: iphoneos-arm
 Maintainer: kTweaks & sk8r
 Installed-Size: 648
@@ -48,7 +48,7 @@ Author: sk8r
 Name: SpotifyLyrics
 
 Package: com.sk8r.tweakify
-Version: 0.1
+Version: 0.1-94
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 804
@@ -62,3 +62,20 @@ Section: Tweaks
 Description: Tweak for Spotify. With this tweak installed, a song is added to the top of your playlist rather than to the end of it. Very convenient when you often have to drag songs all the way to the top. Unlike with the built-in ‘Recently Added’ feature, you are still able to change the order of the songs. Please notice that this tweak only affects newly added songs.
 Author: sk8r
 Name: Tweakify
+
+Package: com.sk8r.winklock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sk8r
+Installed-Size: 136
+Depends: mobilesubstrate, com.fortysixandtwo.wink
+Filename: ./debs/com.sk8r.winklock_0.0.1_iphoneos-arm.deb
+Size: 3786
+MD5sum: 705dca1be5d33771742d7748d5dc5ed6
+SHA1: 20264148b93395934d10d34c7b9d59623a478790
+SHA256: 52ead5934365eaf875c0aaeb7a2aa09e04b125fc3e02d8fbdd35640076a124a2
+Section: Tweaks
+Description: This tweak makes 'Wink' compatible on lock screen. Download Wink from http://repo.fortysixandtwo.com/
+Author: sk8r
+Name: WinkLock
+
