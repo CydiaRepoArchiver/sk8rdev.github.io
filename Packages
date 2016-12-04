@@ -1,3 +1,19 @@
+Package: com.sk8r.glimpse
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sk8r
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.sk8r.glimpse_0.0.1_iphoneos-arm.deb
+Size: 6416
+MD5sum: 36791747fc55e56c8b592de4be2e8daf
+SHA1: cdec2ff5adb2396760a8faa399e03198997177e9
+SHA256: 2dfb46fae0095e5c329b223233113d808dc6f496f31971317b602837ffa699aa
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: sk8r
+Name: Glimpse
+
 Package: com.sk8r.lightify
 Version: 1.0.1-75
 Architecture: iphoneos-arm
