@@ -86,10 +86,10 @@ Maintainer: sk8r
 Installed-Size: 136
 Depends: mobilesubstrate, com.fortysixandtwo.wink
 Filename: ./debs/com.sk8r.winklock_0.0.1_iphoneos-arm.deb
-Size: 3786
-MD5sum: 705dca1be5d33771742d7748d5dc5ed6
-SHA1: 20264148b93395934d10d34c7b9d59623a478790
-SHA256: 52ead5934365eaf875c0aaeb7a2aa09e04b125fc3e02d8fbdd35640076a124a2
+Size: 4690
+MD5sum: 62e89cd257c24cfacf6ded30d298f5af
+SHA1: a448e26b412f006e86a3c15a71ac068816a7a38d
+SHA256: 094ff3d2a00a5e48c8c179b3843a36a6efb38474b0522a60a5901a49315c074d
 Section: Tweaks
 Description: This tweak makes 'Wink' compatible on lock screen. Download Wink from http://repo.fortysixandtwo.com/
 Author: sk8r
