@@ -80,16 +80,16 @@ Author: sk8r
 Name: Tweakify
 
 Package: com.sk8r.winklock
-Version: 0.0.1
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: sk8r
 Installed-Size: 136
-Depends: mobilesubstrate, com.fortysixandtwo.wink
-Filename: ./debs/com.sk8r.winklock_0.0.1_iphoneos-arm.deb
-Size: 4690
-MD5sum: 62e89cd257c24cfacf6ded30d298f5af
-SHA1: a448e26b412f006e86a3c15a71ac068816a7a38d
-SHA256: 094ff3d2a00a5e48c8c179b3843a36a6efb38474b0522a60a5901a49315c074d
+Depends: mobilesubstrate
+Filename: ./debs/com.sk8r.winklock_0.1_iphoneos-arm.deb
+Size: 4674
+MD5sum: e3794fada3efd238c9ee1bf4f8b43d64
+SHA1: c1761451834517d5644a0e27fb7afca569aaed31
+SHA256: 7fedca404df68156e6831645e86e00a215aa04c26248e94890ce60b19c22509c
 Section: Tweaks
 Description: This tweak makes 'Wink' compatible on lock screen. Download Wink from http://repo.fortysixandtwo.com/
 Author: sk8r
